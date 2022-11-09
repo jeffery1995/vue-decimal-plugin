@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   In progress
-  <h3 align="center">A vue3 exchange decimal plugin</h3>
+  <h3 align="center">A vue3 decimal plugin</h3>
 
   <p align="center">
     A plugin which inject decimal utils to global vue config
